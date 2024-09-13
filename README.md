@@ -1,5 +1,48 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Pushkar Jambhulkar</h1>
-<h3 align="center">A passionate MEARN stack developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
